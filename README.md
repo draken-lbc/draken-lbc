@@ -48,4 +48,6 @@
 <code><img width="20" src="https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png" alt="Linux Mint" title="Linux Mint"/></code>
 <code><img width="20" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=draken-lbc)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
